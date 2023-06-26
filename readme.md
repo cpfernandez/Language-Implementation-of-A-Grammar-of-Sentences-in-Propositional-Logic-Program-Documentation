@@ -1,6 +1,5 @@
 ## Language Implementation of A Grammar of Sentences in Propositional Logic Program Documentation
 Name: Fernandez, Chien Carisse P.
-Section: CMSC 124 SAT
 Date: 18 December 2020
 
 
